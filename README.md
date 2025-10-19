@@ -25,7 +25,7 @@ I'm a results-driven backend developer from Coimbatore, India. I build scalable 
 (Short descriptions — pin these repos on your profile for quick access.)
 
 - **Library Management System** — Decoupled full-stack app: React frontend + Django REST Framework backend. JWT auth, CRUD for books/members/loans.  
-  *Visit repo:* [Library Management System](https://github.com/rajeshkumar-14/library-management-system)` 
+  *Visit repo:* [Library Management System](https://github.com/rajeshkumar-14/library-management-system)
 
 - **Multi-Modal Ticket Booking System** — Monolithic Django app for bus/flight/train booking. Role-based access, dynamic search, booking flow and seat availability.  
   *Repository:* [Ticket Booking System](https://github.com/rajeshkumar-14/ticket-booking-system)  
