@@ -35,7 +35,7 @@ I'm a results-driven backend developer from Coimbatore, India. I build scalable 
 ## 📫 Contact & links
 - Old GitHub: [Rajeshkumar-14](https://github.com/Rajeshkumar-14)  
 - LinkedIn: [LinkedIn](https://linkedin.com/in/rajesh-rk14/)  
-- Portfolio: [Rajeshkumarg-14](https://rajeshkumarg-14.vercel.app)
+- Portfolio: [Rajesh Kumar G](https://rajeshkumarg.com)
 
 ---
 
