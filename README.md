@@ -6,7 +6,7 @@
 
 Coimbatore, India · Building useful software for real people
 
-[Portfolio](https://www.rajeshkumarg.com) · [Project case studies](https://www.rajeshkumarg.com/work) · [Writing](https://www.rajeshkumarg.com/blog) · [LinkedIn](https://www.linkedin.com/in/rajesh-kumarg/) · [Email](mailto:rajeshkumarg.dev@gmail.com)
+[Portfolio](https://www.rajeshkumarg.com) · [Project case studies](https://www.rajeshkumarg.com/work) · [Medium](https://rajeshkumarg-14.medium.com/) · [LinkedIn](https://www.linkedin.com/in/rajesh-kumarg/) · [Email](mailto:rajeshkumarg.dev@gmail.com)
 
 </div>
 
@@ -23,6 +23,11 @@ I learn by building, deploying, investigating failures, and improving the result
 - **Data foundations:** PostgreSQL, MySQL, SQLAlchemy, Prisma, and Redis.
 - **Production delivery:** Docker, Linux, VPS deployments, Nginx, and CI/CD.
 - **Legacy modernization:** Ported a C-based telecom IVR application to Python with Asterisk programming.
+
+## Independent projects
+
+- **Connect** gives Claude Code and Codex a local workspace where one can build a change and the other can review it. Each tool keeps its own permissions. [Source](https://github.com/Rajeshkumarg-14/ai-connect) · [Case study](https://www.rajeshkumarg.com/work/ai-connect)
+- **FetchVolt** is a Windows downloader that can use multiple network adapters for one file. It verifies saved chunks before resuming an interrupted transfer. [Source](https://github.com/Rajeshkumarg-14/FetchVolt) · [Case study](https://www.rajeshkumarg.com/work/fetchvolt)
 
 ## Selected work
 
